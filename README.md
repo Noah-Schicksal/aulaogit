@@ -9,11 +9,11 @@ Python é uma linguagem de programação de tipagem dinamica e forte
 - sintaxe limpa
     - códigos em python são mais legiveis e fáceis de entender
 
--multiparadigma
+- multiparadigma
     - suporta vários paradigmas de programação como POO, programação funcional e procedural
 
--versatilidade
-    -Python é muito versátil. Pode ser usado para desenvolver aplicativos web, automação, análise de dados, inteligência artificial, machine learning, automação de tarefas, desenvolvimento de jogos e etc
+- versatilidade
+    - Python é muito versátil. Pode ser usado para desenvolver aplicativos web, automação, análise de dados, inteligência artificial, machine learning, automação de tarefas, desenvolvimento de jogos e etc
 
 ## declaração de variaveis
 
