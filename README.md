@@ -62,6 +62,14 @@ por padrão tudo digitado em um input é definido como tipo _str_ caso o esperad
 variavel = int(input("Digite um número inteiro: "))
 ```
 
+já o comando output é substituido por print()
+
+```python
+variavel = input()
+
+print(variavel)
+```
+
 ## comandos if e else
 
 mesmo diferente do que aprendemos no simulador de javascript, os comandos if e else ainda são bem parecidos, dispensando o uso de "()" para condições e de "{}" para código executavel, usando apenas identação correta, ex: 
