@@ -107,6 +107,26 @@ try:
 except TipoDeErro:
 ```
 
+# Comentários
+
+usamos "#" para comentários
+
+```python
+# isso é um comentário
+```
+
+por padrão o python não tem comentários multilinhas como outra linguagens, mas podemos usar o docstring, com """ ou '''
+
+```python
+"""isso é
+uma docstring"""
+
+'''isso também
+é uma
+docstring '''
+```
+
+
 # E agora?
 
 bora praticar
