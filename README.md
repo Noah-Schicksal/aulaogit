@@ -50,7 +50,7 @@ numero = float(1)
 
 ## comandos input e output
 
-o comando input permanece igual na declaração de variáveis, por ex:
+o comando input permanece igual ao minicurso de javascript, por ex:
 
 ```python
 variavel = input("digite aqui seu input: ")
